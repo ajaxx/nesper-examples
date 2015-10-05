@@ -8,8 +8,8 @@
     <ProjectGuid>{8C3856D9-D4AB-4F63-BC0C-BD5CA8A26DC6}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SimpleExample</RootNamespace>
-    <AssemblyName>SimpleExample</AssemblyName>
+    <RootNamespace>SlidingWindow</RootNamespace>
+    <AssemblyName>SlidingWindow</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
